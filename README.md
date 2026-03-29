@@ -49,7 +49,7 @@ All properties are replayable from a receipt chain. The following root represent
 ---
 
 ## 4. Final Release Manifest (JSON)
-The following machine-readable manifest is used for automated verification across the **Collapse Logic** orchestration layers.
+The following machine-readable manifest is used for automated verification across the **Formal Logic** orchestration layers.
 
 ```json
 {
@@ -82,7 +82,7 @@ The following machine-readable manifest is used for automated verification acros
 ---
 
 ## 4. Final Release Manifest (JSON)
-The following machine-readable manifest is used for automated verification across the **Collapse Logic** orchestration layers.
+The following machine-readable manifest is used for automated verification across the **Formal Logic** orchestration layers.
 
 ```json
 {
