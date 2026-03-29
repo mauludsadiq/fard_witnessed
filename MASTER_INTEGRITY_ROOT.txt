@@ -1,1 +1,1 @@
-c5ce8dde38c16b064f8f7a3d42414c84aabcc569ce1f2bd468bf33fc45b78097  ./.lake/build/bin/fard_witnessed
+fa603b5cdfa9d545a24f2e21077ed1b8705d9d84da9f46b2e1b5441e3780157f  ./.lake/build/bin/fard_witnessed
