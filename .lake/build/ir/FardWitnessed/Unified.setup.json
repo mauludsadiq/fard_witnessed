@@ -1,0 +1,21 @@
+{"plugins": [],
+ "package": "FardWitnessed",
+ "options": {},
+ "name": "FardWitnessed.Unified",
+ "isModule": false,
+ "importArts":
+ {"FardWitnessed.WitnessedRandomness":
+  ["/Users/g.bogans/Downloads/fard_witnessed/.lake/build/lib/lean/FardWitnessed/WitnessedRandomness.olean"],
+  "FardWitnessed.ProbabilityLifting":
+  ["/Users/g.bogans/Downloads/fard_witnessed/.lake/build/lib/lean/FardWitnessed/ProbabilityLifting.olean"],
+  "FardWitnessed.MeasurePreservation":
+  ["/Users/g.bogans/Downloads/fard_witnessed/.lake/build/lib/lean/FardWitnessed/MeasurePreservation.olean"],
+  "FardWitnessed.Generalization":
+  ["/Users/g.bogans/Downloads/fard_witnessed/.lake/build/lib/lean/FardWitnessed/Generalization.olean"],
+  "FardWitnessed.Foundation":
+  ["/Users/g.bogans/Downloads/fard_witnessed/.lake/build/lib/lean/FardWitnessed/Foundation.olean"],
+  "FardWitnessed.Convergence":
+  ["/Users/g.bogans/Downloads/fard_witnessed/.lake/build/lib/lean/FardWitnessed/Convergence.olean"],
+  "FardWitnessed.BaseSystem":
+  ["/Users/g.bogans/Downloads/fard_witnessed/.lake/build/lib/lean/FardWitnessed/BaseSystem.olean"]},
+ "dynlibs": []}

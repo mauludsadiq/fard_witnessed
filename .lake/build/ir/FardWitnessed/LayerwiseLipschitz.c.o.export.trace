@@ -1,0 +1,18 @@
+{"synthetic": false,
+ "schemaVersion": "2025-09-10",
+ "outputs": "8254caa668c29ed7.o",
+ "log":
+ [{"message":
+   ".> /Users/g.bogans/.elan/toolchains/leanprover--lean4---v4.29.0/bin/clang -c -o /Users/g.bogans/Downloads/fard_witnessed/.lake/build/ir/FardWitnessed/LayerwiseLipschitz.c.o.export /Users/g.bogans/Downloads/fard_witnessed/.lake/build/ir/FardWitnessed/LayerwiseLipschitz.c -I /Users/g.bogans/.elan/toolchains/leanprover--lean4---v4.29.0/include -fstack-clash-protection -fdata-sections -ffunction-sections -fvisibility=hidden -Wno-unused-command-line-argument --sysroot /Users/g.bogans/.elan/toolchains/leanprover--lean4---v4.29.0 -nostdinc -isystem /Users/g.bogans/.elan/toolchains/leanprover--lean4---v4.29.0/include/clang -O3 -DNDEBUG -DLEAN_EXPORTING",
+   "level": "trace"}],
+ "inputs":
+ [["FardWitnessed.LayerwiseLipschitz:c",
+   [["/Users/g.bogans/Downloads/fard_witnessed/.lake/build/ir/FardWitnessed/LayerwiseLipschitz.c",
+     "ef0ded484c6b578e"],
+    ["Lean 4.29.0, commit 98dc76e3c0a9b856c9b98726b713fb04fab16740",
+     "60bb08ef22408c8a"]]],
+  ["Lean 4.29.0, commit 98dc76e3c0a9b856c9b98726b713fb04fab16740",
+   "60bb08ef22408c8a"],
+  ["traceArgs: #[-O3, -DNDEBUG, -DLEAN_EXPORTING]", "c1efb66122fb2b9a"],
+  ["arm64-apple-darwin24.6.0", "77c16133d139df5a"]],
+ "depHash": "ee2ea578c7e3eca5"}

@@ -1,0 +1,31 @@
+{"synthetic": false,
+ "schemaVersion": "2025-09-10",
+ "outputs":
+ {"o": ["ab7ddfd94cde625c.olean"],
+  "i": "946d7c21b535356f.ilean",
+  "c": "94d8ceaa02bcceda.c"},
+ "log":
+ [{"message":
+   ".> LEAN_PATH=/Users/g.bogans/Downloads/fard_witnessed/.lake/build/lib/lean /Users/g.bogans/.elan/toolchains/leanprover--lean4---v4.29.0/bin/lean /Users/g.bogans/Downloads/fard_witnessed/FardWitnessed/Foundation.lean -o /Users/g.bogans/Downloads/fard_witnessed/.lake/build/lib/lean/FardWitnessed/Foundation.olean -i /Users/g.bogans/Downloads/fard_witnessed/.lake/build/lib/lean/FardWitnessed/Foundation.ilean -c /Users/g.bogans/Downloads/fard_witnessed/.lake/build/ir/FardWitnessed/Foundation.c --setup /Users/g.bogans/Downloads/fard_witnessed/.lake/build/ir/FardWitnessed/Foundation.setup.json --json",
+   "level": "trace"}],
+ "inputs":
+ [["FardWitnessed.Foundation:deps",
+   [["deps",
+     [["FardWitnessed/FardWitnessed:extraDep",
+       [["@FardWitnessed:extraDep", "00000000000006bb"]]],
+      ["imports", "00000000000006bb"]]],
+    ["libs",
+     [["import dynlibs", "00000000000006bb"],
+      ["package external libraries", "00000000000006bb"],
+      ["module dynlibs", "00000000000006bb"],
+      ["module plugins", "00000000000006bb"]]]]],
+  ["Lean 4.29.0, commit 98dc76e3c0a9b856c9b98726b713fb04fab16740",
+   "60bb08ef22408c8a"],
+  ["/Users/g.bogans/Downloads/fard_witnessed/FardWitnessed/Foundation.lean",
+   "53e82d4738405f67"],
+  ["options", "00000000000006bb"],
+  ["isModule: false", "feefd2a0d3a1847e"],
+  ["Module.name: FardWitnessed.Foundation", "85597af453b30a7b"],
+  ["Package.id?: (some FardWitnessed)", "f6b3bc9d63e48f51"],
+  ["Module.leanArgs: #[]", "00000000000006bb"]],
+ "depHash": "249ebd1218ce149c"}

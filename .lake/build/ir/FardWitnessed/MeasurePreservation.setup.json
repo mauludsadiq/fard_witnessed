@@ -1,0 +1,15 @@
+{"plugins": [],
+ "package": "FardWitnessed",
+ "options": {},
+ "name": "FardWitnessed.MeasurePreservation",
+ "isModule": false,
+ "importArts":
+ {"FardWitnessed.WitnessedRandomness":
+  ["/Users/g.bogans/Downloads/fard_witnessed/.lake/build/lib/lean/FardWitnessed/WitnessedRandomness.olean"],
+  "FardWitnessed.ProbabilityLifting":
+  ["/Users/g.bogans/Downloads/fard_witnessed/.lake/build/lib/lean/FardWitnessed/ProbabilityLifting.olean"],
+  "FardWitnessed.Foundation":
+  ["/Users/g.bogans/Downloads/fard_witnessed/.lake/build/lib/lean/FardWitnessed/Foundation.olean"],
+  "FardWitnessed.BaseSystem":
+  ["/Users/g.bogans/Downloads/fard_witnessed/.lake/build/lib/lean/FardWitnessed/BaseSystem.olean"]},
+ "dynlibs": []}

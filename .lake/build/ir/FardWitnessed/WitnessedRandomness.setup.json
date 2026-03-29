@@ -1,0 +1,11 @@
+{"plugins": [],
+ "package": "FardWitnessed",
+ "options": {},
+ "name": "FardWitnessed.WitnessedRandomness",
+ "isModule": false,
+ "importArts":
+ {"FardWitnessed.Foundation":
+  ["/Users/g.bogans/Downloads/fard_witnessed/.lake/build/lib/lean/FardWitnessed/Foundation.olean"],
+  "FardWitnessed.BaseSystem":
+  ["/Users/g.bogans/Downloads/fard_witnessed/.lake/build/lib/lean/FardWitnessed/BaseSystem.olean"]},
+ "dynlibs": []}

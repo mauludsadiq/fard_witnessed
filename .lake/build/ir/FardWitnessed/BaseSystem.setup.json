@@ -1,0 +1,9 @@
+{"plugins": [],
+ "package": "FardWitnessed",
+ "options": {},
+ "name": "FardWitnessed.BaseSystem",
+ "isModule": false,
+ "importArts":
+ {"FardWitnessed.Foundation":
+  ["/Users/g.bogans/Downloads/fard_witnessed/.lake/build/lib/lean/FardWitnessed/Foundation.olean"]},
+ "dynlibs": []}

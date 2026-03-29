@@ -1,0 +1,18 @@
+{"synthetic": false,
+ "schemaVersion": "2025-09-10",
+ "outputs": "bf48db3a7592e3a9.o",
+ "log":
+ [{"message":
+   ".> /Users/g.bogans/.elan/toolchains/leanprover--lean4---v4.29.0/bin/clang -c -o /Users/g.bogans/Downloads/fard_witnessed/.lake/build/ir/FardWitnessed/Unified.c.o.export /Users/g.bogans/Downloads/fard_witnessed/.lake/build/ir/FardWitnessed/Unified.c -I /Users/g.bogans/.elan/toolchains/leanprover--lean4---v4.29.0/include -fstack-clash-protection -fdata-sections -ffunction-sections -fvisibility=hidden -Wno-unused-command-line-argument --sysroot /Users/g.bogans/.elan/toolchains/leanprover--lean4---v4.29.0 -nostdinc -isystem /Users/g.bogans/.elan/toolchains/leanprover--lean4---v4.29.0/include/clang -O3 -DNDEBUG -DLEAN_EXPORTING",
+   "level": "trace"}],
+ "inputs":
+ [["FardWitnessed.Unified:c",
+   [["/Users/g.bogans/Downloads/fard_witnessed/.lake/build/ir/FardWitnessed/Unified.c",
+     "636526976e907500"],
+    ["Lean 4.29.0, commit 98dc76e3c0a9b856c9b98726b713fb04fab16740",
+     "60bb08ef22408c8a"]]],
+  ["Lean 4.29.0, commit 98dc76e3c0a9b856c9b98726b713fb04fab16740",
+   "60bb08ef22408c8a"],
+  ["traceArgs: #[-O3, -DNDEBUG, -DLEAN_EXPORTING]", "c1efb66122fb2b9a"],
+  ["arm64-apple-darwin24.6.0", "77c16133d139df5a"]],
+ "depHash": "ceb6585b9319f659"}
